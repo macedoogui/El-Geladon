@@ -23,7 +23,7 @@ const paletas  = [
 
       {
         id: 3,
-        sabor: 'Chocolate Belga',
+        sabor: 'Chocolate Belga' ,
         descricao: 'Chocolate Belga',
         foto: 'https://storage.googleapis.com/domain-images/60b1f285-d77c-444a-b734-1bc1efd2c472/products/gallery_bd17d9a3-cd93-44a9-9b44-f017a1c7a329.jpg',
         preco: 7.0,
